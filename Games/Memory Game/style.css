@@ -1,0 +1,14 @@
+#grid{
+    width: 800px;
+    height: 800px;
+    display:flex;
+    flex-wrap: wrap;
+    border: solid black 3px;
+    position: relative;
+    left: 550px;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;   
+}

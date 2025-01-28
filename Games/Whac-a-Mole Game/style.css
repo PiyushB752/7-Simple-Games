@@ -1,0 +1,27 @@
+.grid {
+	width: 606px;
+	height: 606px;
+	display: flex;
+	flex-wrap: wrap;
+	border: solid black 3px;
+	background-color: teal;
+	position: relative;
+	left: 35%;
+}
+
+.square {
+	height: 200px;
+	width: 200px;
+	border: solid black 1px;
+}
+
+.mole{
+    background-image: url("mole.jpg");
+	background-size: cover;
+}
+
+
+body{
+	background-color: darkkhaki;
+	text-align: center;
+}
